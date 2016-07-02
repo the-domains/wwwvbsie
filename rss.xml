@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[www.vbs.ie]]></title>
         <description><![CDATA[www.vbs.ie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wwwvbsie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 13:16:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jul 2016 13:17:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wwwvbsie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/40eebe8f31d5641c1539068d00c961e6/croprotate.jpg?cropheight=2913&cropwidth=4368&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fce7a451d-ec0e-44ef-9801-6701600f7c76.jpg&x=0&y=0" alt="SERVICES">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce7a451d-ec0e-44ef-9801-6701600f7c76.jpg</link>
+            <guid isPermaLink="false">ea9ce618-c42a-44fb-a7cc-c23e8d44b01d</guid>
+            <pubDate>Sat, 02 Jul 2016 13:16:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VBS]]></title>
             <description><![CDATA[<article><h1>VBS</h1><p>ABOUT US</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e9c8167-cc22-412a-b4fe-eca60901807c.png"></article>]]></description>
